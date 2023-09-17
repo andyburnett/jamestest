@@ -1,4 +1,7 @@
-# jamestest
+---
+layout: pow
+title: the most amazing page ever
+---
 showing my boy how to build a website!
 
 - this is a list item
